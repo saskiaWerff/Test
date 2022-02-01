@@ -1,2 +1,2 @@
 # Test
-Code to solve a set of exercises
+Code to solve a set of exercises.
